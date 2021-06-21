@@ -1,0 +1,379 @@
+Province,Sex,Age group,Population
+Canada,Both sexes,All ages,38005238
+Canada,Males,All ages,18885261
+Canada,Females,All ages,19119977
+Newfoundland and Labrador,Both sexes,All ages,522103
+Newfoundland and Labrador,Males,All ages,257955
+Newfoundland and Labrador,Females,All ages,264148
+Prince Edward Island,Both sexes,All ages,159625
+Prince Edward Island,Males,All ages,78508
+Prince Edward Island,Females,All ages,81117
+Nova Scotia,Both sexes,All ages,979351
+Nova Scotia,Males,All ages,479392
+Nova Scotia,Females,All ages,499959
+New Brunswick,Both sexes,All ages,781476
+New Brunswick,Males,All ages,386847
+New Brunswick,Females,All ages,394629
+Quebec,Both sexes,All ages,8574571
+Quebec,Males,All ages,4286875
+Quebec,Females,All ages,4287696
+Ontario,Both sexes,All ages,14734014
+Ontario,Males,All ages,7279448
+Ontario,Females,All ages,7454566
+Manitoba,Both sexes,All ages,1379263
+Manitoba,Males,All ages,688624
+Manitoba,Females,All ages,690639
+Saskatchewan,Both sexes,All ages,1178681
+Saskatchewan,Males,All ages,593693
+Saskatchewan,Females,All ages,584988
+Alberta,Both sexes,All ages,4421876
+Alberta,Males,All ages,2223432
+Alberta,Females,All ages,2198444
+British Columbia,Both sexes,All ages,5147712
+British Columbia,Males,All ages,2545728
+British Columbia,Females,All ages,2601984
+Yukon,Both sexes,All ages,42052
+Yukon,Males,All ages,21387
+Yukon,Females,All ages,20665
+Northwest Territories,Both sexes,All ages,45161
+Northwest Territories,Males,All ages,23231
+Northwest Territories,Females,All ages,21930
+Nunavut,Both sexes,All ages,39353
+Nunavut,Males,All ages,20141
+Nunavut,Females,All ages,19212
+Canada,Both sexes,0-19,8139512
+Canada,Males,0-19,4160809
+Canada,Females,0-19,3978703
+Newfoundland and Labrador,Both sexes,0-19,96958
+Newfoundland and Labrador,Males,0-19,49988
+Newfoundland and Labrador,Females,0-19,46970
+Prince Edward Island,Both sexes,0-19,33753
+Prince Edward Island,Males,0-19,17193
+Prince Edward Island,Females,0-19,16560
+Nova Scotia,Both sexes,0-19,187566
+Nova Scotia,Males,0-19,96195
+Nova Scotia,Females,0-19,91371
+New Brunswick,Both sexes,0-19,152797
+New Brunswick,Males,0-19,77797
+New Brunswick,Females,0-19,75000
+Quebec,Both sexes,0-19,1780056
+Quebec,Males,0-19,909120
+Quebec,Females,0-19,870936
+Ontario,Both sexes,0-19,3131022
+Ontario,Males,0-19,1600453
+Ontario,Females,0-19,1530569
+Manitoba,Both sexes,0-19,347118
+Manitoba,Males,0-19,177323
+Manitoba,Females,0-19,169795
+Saskatchewan,Both sexes,0-19,301930
+Saskatchewan,Males,0-19,153929
+Saskatchewan,Females,0-19,148001
+Alberta,Both sexes,0-19,1080018
+Alberta,Males,0-19,551904
+Alberta,Females,0-19,528114
+British Columbia,Both sexes,0-19,991471
+British Columbia,Males,0-19,508127
+British Columbia,Females,0-19,483344
+Yukon,Both sexes,0-19,9234
+Yukon,Males,0-19,4831
+Yukon,Females,0-19,4403
+Northwest Territories,Both sexes,0-19,11847
+Northwest Territories,Males,0-19,5942
+Northwest Territories,Females,0-19,5905
+Nunavut,Both sexes,0-19,15742
+Nunavut,Males,0-19,8007
+Nunavut,Females,0-19,7735
+Canada,Both sexes,20-29,5128042
+Canada,Males,20-29,2661191
+Canada,Females,20-29,2466851
+Newfoundland and Labrador,Both sexes,20-29,56986
+Newfoundland and Labrador,Males,20-29,29631
+Newfoundland and Labrador,Females,20-29,27355
+Prince Edward Island,Both sexes,20-29,21898
+Prince Edward Island,Males,20-29,11642
+Prince Edward Island,Females,20-29,10256
+Nova Scotia,Both sexes,20-29,124915
+Nova Scotia,Males,20-29,64130
+Nova Scotia,Females,20-29,60785
+New Brunswick,Both sexes,20-29,87471
+New Brunswick,Males,20-29,45518
+New Brunswick,Females,20-29,41953
+Quebec,Both sexes,20-29,1064039
+Quebec,Males,20-29,552636
+Quebec,Females,20-29,511403
+Ontario,Both sexes,20-29,2117094
+Ontario,Males,20-29,1099167
+Ontario,Females,20-29,1017927
+Manitoba,Both sexes,20-29,193793
+Manitoba,Males,20-29,101049
+Manitoba,Females,20-29,92744
+Saskatchewan,Both sexes,20-29,152890
+Saskatchewan,Males,20-29,80000
+Saskatchewan,Females,20-29,72890
+Alberta,Both sexes,20-29,591835
+Alberta,Males,20-29,305941
+Alberta,Females,20-29,285894
+British Columbia,Both sexes,20-29,698782
+British Columbia,Males,20-29,361892
+British Columbia,Females,20-29,336890
+Yukon,Both sexes,20-29,5174
+Yukon,Males,20-29,2739
+Yukon,Females,20-29,2435
+Northwest Territories,Both sexes,20-29,6716
+Northwest Territories,Males,20-29,3591
+Northwest Territories,Females,20-29,3125
+Nunavut,Both sexes,20-29,6449
+Nunavut,Males,20-29,3255
+Nunavut,Females,20-29,3194
+Canada,Both sexes,30-39,5292403
+Canada,Males,30-39,2667706
+Canada,Females,30-39,2624697
+Newfoundland and Labrador,Both sexes,30-39,59093
+Newfoundland and Labrador,Males,30-39,29056
+Newfoundland and Labrador,Females,30-39,30037
+Prince Edward Island,Both sexes,30-39,18526
+Prince Edward Island,Males,30-39,8983
+Prince Edward Island,Females,30-39,9543
+Nova Scotia,Both sexes,30-39,119947
+Nova Scotia,Males,30-39,58933
+Nova Scotia,Females,30-39,61014
+New Brunswick,Both sexes,30-39,91358
+New Brunswick,Males,30-39,45580
+New Brunswick,Females,30-39,45778
+Quebec,Both sexes,30-39,1126339
+Quebec,Males,30-39,573824
+Quebec,Females,30-39,552515
+Ontario,Both sexes,30-39,2034796
+Ontario,Males,30-39,1020536
+Ontario,Females,30-39,1014260
+Manitoba,Both sexes,30-39,193992
+Manitoba,Males,30-39,97512
+Manitoba,Females,30-39,96480
+Saskatchewan,Both sexes,30-39,172415
+Saskatchewan,Males,30-39,87730
+Saskatchewan,Females,30-39,84685
+Alberta,Both sexes,30-39,715527
+Alberta,Males,30-39,362611
+Alberta,Females,30-39,352916
+British Columbia,Both sexes,30-39,740337
+British Columbia,Males,30-39,372832
+British Columbia,Females,30-39,367505
+Yukon,Both sexes,30-39,7017
+Yukon,Males,30-39,3458
+Yukon,Females,30-39,3559
+Northwest Territories,Both sexes,30-39,7110
+Northwest Territories,Males,30-39,3619
+Northwest Territories,Females,30-39,3491
+Nunavut,Both sexes,30-39,5946
+Nunavut,Males,30-39,3032
+Nunavut,Females,30-39,2914
+Canada,Both sexes,40-49,4854363
+Canada,Males,40-49,2405182
+Canada,Females,40-49,2449181
+Newfoundland and Labrador,Both sexes,40-49,67180
+Newfoundland and Labrador,Males,40-49,32372
+Newfoundland and Labrador,Females,40-49,34808
+Prince Edward Island,Both sexes,40-49,19817
+Prince Edward Island,Males,40-49,9645
+Prince Edward Island,Females,40-49,10172
+Nova Scotia,Both sexes,40-49,118101
+Nova Scotia,Males,40-49,56676
+Nova Scotia,Females,40-49,61425
+New Brunswick,Both sexes,40-49,99730
+New Brunswick,Males,40-49,49663
+New Brunswick,Females,40-49,50067
+Quebec,Both sexes,40-49,1108957
+Quebec,Males,40-49,563553
+Quebec,Females,40-49,545404
+Ontario,Both sexes,40-49,1853436
+Ontario,Males,40-49,901607
+Ontario,Females,40-49,951829
+Manitoba,Both sexes,40-49,169280
+Manitoba,Males,40-49,85254
+Manitoba,Females,40-49,84026
+Saskatchewan,Both sexes,40-49,143464
+Saskatchewan,Males,40-49,73107
+Saskatchewan,Females,40-49,70357
+Alberta,Both sexes,40-49,608435
+Alberta,Males,40-49,308121
+Alberta,Females,40-49,300314
+British Columbia,Both sexes,40-49,649294
+British Columbia,Males,40-49,317033
+British Columbia,Females,40-49,332261
+Yukon,Both sexes,40-49,5914
+Yukon,Males,40-49,2804
+Yukon,Females,40-49,3110
+Northwest Territories,Both sexes,40-49,6267
+Northwest Territories,Males,40-49,3056
+Northwest Territories,Females,40-49,3211
+Nunavut,Both sexes,40-49,4488
+Nunavut,Males,40-49,2291
+Nunavut,Females,40-49,2197
+Canada,Both sexes,50-59,5194811
+Canada,Males,50-59,2582542
+Canada,Females,50-59,2612269
+Newfoundland and Labrador,Both sexes,50-59,83319
+Newfoundland and Labrador,Males,50-59,40938
+Newfoundland and Labrador,Females,50-59,42381
+Prince Edward Island,Both sexes,50-59,22324
+Prince Edward Island,Males,50-59,10929
+Prince Edward Island,Females,50-59,11395
+Nova Scotia,Both sexes,50-59,144056
+Nova Scotia,Males,50-59,70638
+Nova Scotia,Females,50-59,73418
+New Brunswick,Both sexes,50-59,117344
+New Brunswick,Males,50-59,58513
+New Brunswick,Females,50-59,58831
+Quebec,Both sexes,50-59,1184571
+Quebec,Males,50-59,596207
+Quebec,Females,50-59,588364
+Ontario,Both sexes,50-59,2042065
+Ontario,Males,50-59,1011444
+Ontario,Females,50-59,1030621
+Manitoba,Both sexes,50-59,170251
+Manitoba,Males,50-59,84190
+Manitoba,Females,50-59,86061
+Saskatchewan,Both sexes,50-59,142740
+Saskatchewan,Males,50-59,72740
+Saskatchewan,Females,50-59,70000
+Alberta,Both sexes,50-59,550748
+Alberta,Males,50-59,277638
+Alberta,Females,50-59,273110
+British Columbia,Both sexes,50-59,720742
+British Columbia,Males,50-59,350702
+British Columbia,Females,50-59,370040
+Yukon,Both sexes,50-59,5986
+Yukon,Males,50-59,3011
+Yukon,Females,50-59,2975
+Northwest Territories,Both sexes,50-59,6627
+Northwest Territories,Males,50-59,3482
+Northwest Territories,Females,50-59,3145
+Nunavut,Both sexes,50-59,4038
+Nunavut,Males,50-59,2110
+Nunavut,Females,50-59,1928
+Canada,Both sexes,60-69,2167275
+Canada,Males,60-69,1050581
+Canada,Females,60-69,1116694
+Newfoundland and Labrador,Both sexes,60-69,39718
+Newfoundland and Labrador,Males,60-69,19506
+Newfoundland and Labrador,Females,60-69,20212
+Prince Edward Island,Both sexes,60-69,10116
+Prince Edward Island,Males,60-69,4886
+Prince Edward Island,Females,60-69,5230
+Nova Scotia,Both sexes,60-69,66676
+Nova Scotia,Males,60-69,32130
+Nova Scotia,Females,60-69,34546
+New Brunswick,Both sexes,60-69,55477
+New Brunswick,Males,60-69,26941
+New Brunswick,Females,60-69,28536
+Quebec,Both sexes,60-69,529279
+Quebec,Males,60-69,260857
+Quebec,Females,60-69,268422
+Ontario,Both sexes,60-69,803962
+Ontario,Males,60-69,383637
+Ontario,Females,60-69,420325
+Manitoba,Both sexes,60-69,70981
+Manitoba,Males,60-69,34604
+Manitoba,Females,60-69,36377
+Saskatchewan,Both sexes,60-69,62071
+Saskatchewan,Males,60-69,31046
+Saskatchewan,Females,60-69,31025
+Alberta,Both sexes,60-69,210073
+Alberta,Males,60-69,103702
+Alberta,Females,60-69,106371
+British Columbia,Both sexes,60-69,314021
+British Columbia,Males,60-69,150675
+British Columbia,Females,60-69,163346
+Yukon,Both sexes,60-69,2385
+Yukon,Males,60-69,1236
+Yukon,Females,60-69,1149
+Northwest Territories,Both sexes,60-69,1818
+Northwest Territories,Males,60-69,926
+Northwest Territories,Females,60-69,892
+Nunavut,Both sexes,60-69,698
+Nunavut,Males,60-69,435
+Nunavut,Females,60-69,263
+Canada,Both sexes,70-79,3004925
+Canada,Males,70-79,1423989
+Canada,Females,70-79,1580936
+Newfoundland and Labrador,Both sexes,70-79,53637
+Newfoundland and Labrador,Males,70-79,26063
+Newfoundland and Labrador,Females,70-79,27574
+Prince Edward Island,Both sexes,70-79,14695
+Prince Edward Island,Males,70-79,7004
+Prince Edward Island,Females,70-79,7691
+Nova Scotia,Both sexes,70-79,95133
+Nova Scotia,Males,70-79,45103
+Nova Scotia,Females,70-79,50030
+New Brunswick,Both sexes,70-79,77424
+New Brunswick,Males,70-79,37176
+New Brunswick,Females,70-79,40248
+Quebec,Both sexes,70-79,753760
+Quebec,Males,70-79,360953
+Quebec,Females,70-79,392807
+Ontario,Both sexes,70-79,1134561
+Ontario,Males,70-79,528877
+Ontario,Females,70-79,605684
+Manitoba,Both sexes,70-79,95330
+Manitoba,Males,70-79,45570
+Manitoba,Females,70-79,49760
+Saskatchewan,Both sexes,70-79,78438
+Saskatchewan,Males,70-79,37716
+Saskatchewan,Females,70-79,40722
+Alberta,Both sexes,70-79,260634
+Alberta,Males,70-79,123929
+Alberta,Females,70-79,136705
+British Columbia,Both sexes,70-79,436574
+British Columbia,Males,70-79,209044
+British Columbia,Females,70-79,227530
+Yukon,Both sexes,70-79,2394
+Yukon,Males,70-79,1299
+Yukon,Females,70-79,1095
+Northwest Territories,Both sexes,70-79,1651
+Northwest Territories,Males,70-79,895
+Northwest Territories,Females,70-79,756
+Nunavut,Both sexes,70-79,694
+Nunavut,Males,70-79,360
+Nunavut,Females,70-79,334
+Canada,Both sexes,80+,1663666
+Canada,Males,80+,673055
+Canada,Females,80+,990611
+Newfoundland and Labrador,Both sexes,80+,22873
+Newfoundland and Labrador,Males,80+,9563
+Newfoundland and Labrador,Females,80+,13310
+Prince Edward Island,Both sexes,80+,7146
+Prince Edward Island,Males,80+,2774
+Prince Edward Island,Females,80+,4372
+Nova Scotia,Both sexes,80+,47016
+Nova Scotia,Males,80+,18548
+Nova Scotia,Females,80+,28468
+New Brunswick,Both sexes,80+,38361
+New Brunswick,Males,80+,15257
+New Brunswick,Females,80+,23104
+Quebec,Both sexes,80+,408444
+Quebec,Males,80+,161973
+Quebec,Females,80+,246471
+Ontario,Both sexes,80+,655835
+Ontario,Males,80+,263801
+Ontario,Females,80+,392034
+Manitoba,Both sexes,80+,55355
+Manitoba,Males,80+,21819
+Manitoba,Females,80+,33536
+Saskatchewan,Both sexes,80+,50511
+Saskatchewan,Males,80+,19926
+Saskatchewan,Females,80+,30585
+Alberta,Both sexes,80+,140267
+Alberta,Males,80+,57548
+Alberta,Females,80+,82719
+British Columbia,Both sexes,80+,236341
+British Columbia,Males,80+,101070
+British Columbia,Females,80+,135271
+Yukon,Both sexes,80+,832
+Yukon,Males,80+,411
+Yukon,Females,80+,421
+Northwest Territories,Both sexes,80+,506
+Northwest Territories,Males,80+,269
+Northwest Territories,Females,80+,237
+Nunavut,Both sexes,80+,179
+Nunavut,Males,80+,96
+Nunavut,Females,80+,83
